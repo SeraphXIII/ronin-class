@@ -1,0 +1,31 @@
+{
+  "name": "ronin-class",
+  "title": "Ronin Class for Pathfinder 2e",
+  "description": "A class that fits to the standard samurai fantasy, with additional elements lifted from shinobi and general ancient Japanese warfare.",
+  "version": "0.0.1",
+  "author": "Marzaniok",
+  "minimumCoreVersion": "0.8.8",
+  "compatibleCoreVersion": "0.8.8",
+  "scripts": [],
+  "esmodules": ["module/ronin-class.js"],
+  "styles": ["styles/ronin-class.css"],
+  "packs": [],
+  "dependencies": [],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "socket": false,
+  "url": "",
+  "manifest": "",
+  "download": "https://host/path/to/0.0.0.zip",
+  "license": "",
+  "readme": "",
+  "bugs": "",
+  "changelog": "",
+  "system": [],
+  "library": false
+}
