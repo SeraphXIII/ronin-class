@@ -2,7 +2,7 @@
   "name": "ronin-class",
   "title": "Ronin Class for Pathfinder 2e",
   "description": "A class that fits to the standard samurai fantasy, with additional elements lifted from shinobi and general ancient Japanese warfare.",
-  "version": "0.0.1",
+  "version": "0.1.1",
   "author": "Marzaniok",
   "packs": [
     {
