@@ -2,7 +2,7 @@
   "name": "ronin-class",
   "title": "Ronin Class for Pathfinder 2e",
   "description": "A class that fits to the standard samurai fantasy, with additional elements lifted from shinobi and general ancient Japanese warfare.",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "author": "Marzaniok",
   "packs": [
     {
@@ -16,8 +16,8 @@
     }
   ],
   "systems": ["pf2e"],
-  "compatibleCoreVersion": "9.238",
-  "minimumCoreVersion": "9.235",
+  "compatibleCoreVersion": "10.291",
+  "minimumCoreVersion": "10.2",
   "manifest": "https://raw.githubusercontent.com/SeraphXIII/ronin-class/master/module.json",
   "download": "https://github.com/SeraphXIII/ronin-class/archive/refs/heads/master.zip",
   "url": "https://github.com/SeraphXIII/ronin-class"
